@@ -89,9 +89,3 @@ I am; therefore, am I?
 However, there are phrases that are palindromes in accordance with both (a) and (b) because each word is itself
 a palindrome for example,
 I did, did I?
-_______________________________________________________________________________________________
-Deadline for Submission
-All material must be submitted by 13h00 on Friday of Week 1. Please refer to the document titled CS4092: Project
-Submission Documentation for specific deliverable instructions. Failure to adhere to these instructions could result
-in your work attaining zero marks.
-_______________________________________________________________________________________________
