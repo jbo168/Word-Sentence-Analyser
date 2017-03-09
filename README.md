@@ -1,4 +1,4 @@
-# CS4092-Analyser
+# Word-Analyser
 Project 1
 Page 1 of 2
 CS4092: Project 1 Outline (10%) - Word/Phrase/Sentence Analyser
